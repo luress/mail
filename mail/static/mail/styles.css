@@ -1,0 +1,25 @@
+textarea {
+    min-height: 400px;
+}
+
+.email-area {
+    border: solid;
+    display: flex;
+    
+}
+
+.email-id {
+    flex: auto;
+    font-weight: bold;
+}
+
+.email-subject {
+    flex: auto;
+    text-align: center;
+}
+
+.email-timestamp {
+    flex: auto;
+    margin-right: 2%;
+    text-align: right;
+}
